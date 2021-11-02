@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/* website text styles */
+#logo {
+	margin-top:10px;
+    position:absolute;
+    font-family: 'Questrial', sans-serif;
+}
+
+nav {
+    line-height:55px;   
+}
+nav a:hover{
+    text-decoration:underline;   
+}
+#some-links a {
+ text-decoration:none;
+ color:#E8E8E8;
+}
+.fa-circle {
+ /*(color:#9BBE72; */
+ color: #BFDA67;
+}
+#headline h1,#headline p {
+ color:#F6F6F6;
+}
+#headline a {
+    color:#d396c5;
+    text-decoration:none;
+}
+#headline h2 {
+ color: #BFDA67;  
+
+}
+#services p {
+    line-height: 25px;
+}
+.badge{
+  background-color: #9D988E;
+  border-radius: 20px;
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 10.844px;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin: 0.2em;
+    padding: 0.35em 0.9em;
+    vertical-align: baseline;
+    white-space: nowrap;   
+}
+#services h1,#services h2, #services h3{
+font-family: 'Questrial', sans-serif;
+}
+h2 {font-family: 'Questrial', sans-serif; color:gray;}
